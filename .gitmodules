@@ -1,0 +1,3 @@
+[submodule "wallets/bitcoin"]
+	path = wallets/bitcoin
+	url = git://github.com/bitcoin/bitcoin.git
